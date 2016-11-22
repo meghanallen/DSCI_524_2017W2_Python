@@ -9,6 +9,8 @@ The fact that you are somehow powering this laptop is beyond the scope of this p
 
 [Found here](https://github.ubc.ca/mat4nier/DSCI_524_lab1_python)
 
+This is part of [DSCI 524 Lab 1](https://github.ubc.ca/ubc-mds-2016/DSCI_524_lab1_fournier_mathew)
+
 ## Typical Usage
 
 ```
