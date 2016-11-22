@@ -6,7 +6,7 @@ setup(
     author='Mat Fournier',
     author_email='mat@matfournier.com',
     packages=['mfMath'],
-    scripts=['util.py'],
+    scripts=['mfMath/util.py'],
     url='https://github.ubc.ca/mat4nier/DSCI_524_lab1_python',
     license='LICENSE.txt',
     description='Useful MaTh related stuff from Mat',
