@@ -5,6 +5,4 @@ def standard_deviation(x):
     stdev = (ssq/n)**0.5
     return(stdev)
 
-def standard_error(x):
-    standard_error = lambda x: standard_deviation(x)/len(x)**0.5
-    return(standard_error)
+standard_error = lambda x: standard_deviation(x)/len(x)**0.5
