@@ -5,6 +5,10 @@ Mat's super awesome math utility package provides a single method to do standard
 
 The fact that you are somehow powering this laptop is beyond the scope of this package.
 
+## To install please execute the following from the command line:
+pip install git+https://github.com/meghanallen/DSCI_524_2017W2_Python.git
+
+
 ## HomePage
 
 [Found here](https://github.ubc.ca/mat4nier/DSCI_524_lab1_python)
